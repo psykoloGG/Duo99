@@ -1,2 +1,2 @@
 # Duo99
-Duolingo battle royale
+Duolingo battle royale prototype
